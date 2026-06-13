@@ -15,7 +15,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a los fundamentos de 
 **Herramientas necesarias:** **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
 
 **📂 Repositorio de Código Fuente:**
-https://github.com/yourusername/java-fundamentals-course-teamname
+https://github.com/ClosedSource-11848/java-fundamentals-course-closedsource
 
 ---
 
@@ -125,12 +125,13 @@ https://github.com/yourusername/java-fundamentals-course-teamname
 
 **Curso:** 1ASI0729 - Desarrollo de Aplicaciones Open Source
 
-**NRC:** [Número de NRC]
+**NRC:** 11848
 
-**Nombre del equipo:** [Nombre de tu equipo]
+**Nombre del equipo:** ClosedSource
 
-**Líder del equipo:** [Nombres y Apellidos]
+**Líder del equipo:** Billy Jake Ruiz Madrid
 
-**Integrantes del equipo:** [Nombres y Apellidos]
+**Integrantes del equipo:** 
+- Billy Jake Ruiz Madrid
 
-**Fecha de entrega:** [Fecha]
+**Fecha de entrega:** 21/06/2026
