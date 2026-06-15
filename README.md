@@ -33,9 +33,9 @@ https://github.com/ClosedSource-11848/java-fundamentals-course-closedsource
 ### Lección 2: Variables y Tipos de Datos (8 minutos)
 
 * **Descripción:** Aprende a almacenar datos en Java usando variables.
-* **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link2)
+* **Enlace:** [Ver la lección](https://youtu.be/xLpNadmV5cw)
 * **Conclusiones clave:** Usa `int`, `String`; declara como `int age = 15;`
-* **Práctica:** [Clic para programar](https://www.jdoodle.com/online-java-compiler)
+* **Práctica:** [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 **¡No es necesario registrarse!**
 
 ---
 
@@ -92,7 +92,7 @@ https://github.com/ClosedSource-11848/java-fundamentals-course-closedsource
 | Número de lección | Actividad        | Empezar a programar                                             |
 | ----------------- | ---------------- | --------------------------------------------------------------- |
 | 1                 | Hola Mundo       | [Replit](https://replit.com/@your-lesson1)                      |
-| 2                 | Variables        | [Replit](https://replit.com/@your-lesson2)                      |
+| 2                 | Variables        | [Ejemplo 1](https://www.jdoodle.com/ia/1U9c) / [Ejemplo 2](https://www.jdoodle.com/ia/1U9d) |
 | 3                 | Bucles           | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
 | 4                 | Métodos y Clases | [OnlineGDB](https://onlinegdb.com/your-lesson4)                 |
 | 5                 | Programa POO     | [Replit](https://replit.com/@your-lesson5)                      |
