@@ -73,7 +73,7 @@ https://github.com/ClosedSource-11848/java-fundamentals-course-closedsource
 ### Lección 6: Consejos y Próximos Pasos (10 minutos)
 
 * **Descripción:** Mejores prácticas, errores comunes y dónde aprender más.
-* **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link6)
+* **Enlace:** [Ver la lección](https://youtu.be/8AumKPwjlYE)
 * **Consejos clave:** Depurar errores, explorar la documentación oficial de Oracle Java.
 * **Compartir tu trabajo:** [Enviar creación](https://forms.gle/your-form)
 
