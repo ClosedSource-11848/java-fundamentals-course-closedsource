@@ -26,7 +26,7 @@ https://github.com/ClosedSource-11848/java-fundamentals-course-closedsource
 * **Descripción:** Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
 * **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link1)
 * **Conclusiones clave:** Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.
-* **Empieza a programar:** [Abrir Replit - Hola mundo](https://replit.com/@your-starter-java)
+* **Empieza a programar:** [Clic para programar](https://www.jdoodle.com/online-java-compiler)
 
 ---
 
@@ -44,7 +44,7 @@ https://github.com/ClosedSource-11848/java-fundamentals-course-closedsource
 * **Descripción:** Toma decisiones con `if-else` y repite tareas con bucles.
 * **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link3)
 * **Conclusiones clave:** `if (age > 12) {}`; `for (int i = 0; i < 5; i++) {}`
-* **Práctica:** [Clic para programar](https://jdoodle.com/execute-java-online/your-id) > 👈 ¡No es necesario registrarse! Inicio inmediato.
+* **Práctica:** [Clic para programar](https://www.jdoodle.com/online-java-compiler) > 👈 ¡No es necesario registrarse! Inicio inmediato.
 
 ---
 
@@ -57,7 +57,7 @@ https://github.com/ClosedSource-11848/java-fundamentals-course-closedsource
   * `public static void greet() {}`
   * Uso de `Scanner`
   * `class Pet { String name; }`
-* **Práctica:** [Haz clic para practicar](https://onlinegdb.com/your-gdb-id) > 👈 ¡No necesitas registrarte!
+* **Práctica:** [Clic para programar](https://www.jdoodle.com/online-java-compiler) > 👈 ¡No necesitas registrarte!
 
 ---
 
@@ -66,7 +66,7 @@ https://github.com/ClosedSource-11848/java-fundamentals-course-closedsource
 * **Descripción:** Construye clases con atributos y métodos, y crea un programa POO básico.
 * **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link5)
 * **Conclusiones clave:** Encapsulación con getters; construcción de un simulador de mascotas.
-* **Proyecto final:** [Crea tu aplicación POO](https://replit.com/@your-final-java)
+* **Proyecto final:** [Clic para programar](https://www.jdoodle.com/online-java-compiler)
 
 ---
 
@@ -89,13 +89,13 @@ https://github.com/ClosedSource-11848/java-fundamentals-course-closedsource
 
 ### Todas las actividades prácticas
 
-| Número de lección | Actividad        | Empezar a programar                                             |
-| ----------------- | ---------------- | --------------------------------------------------------------- |
-| 1                 | Hola Mundo       | [Replit](https://replit.com/@your-lesson1)                      |
-| 2                 | Variables        | [Ejemplo 1](https://www.jdoodle.com/ia/1U9c) / [Ejemplo 2](https://www.jdoodle.com/ia/1U9d) |
-| 3                 | Bucles           | [JDoodle](https://jdoodle.com/execute-java-online/your-lesson3) |
-| 4                 | Métodos y Clases | [OnlineGDB](https://onlinegdb.com/your-lesson4)                 |
-| 5                 | Programa POO     | [Replit](https://replit.com/@your-lesson5)                      |
+| Número de lección | Actividad        | Empezar a programar                                      |
+| ----------------- | ---------------- | -------------------------------------------------------- |
+| 1                 | Hola Mundo       | [JDoodle](https://www.jdoodle.com/online-java-compiler)  |
+| 2                 | Variables        | [JDoodle](https://www.jdoodle.com/online-java-compiler)  |
+| 3                 | Bucles           | [JDoodle](https://www.jdoodle.com/online-java-compiler)  |
+| 4                 | Métodos y Clases | [JDoodle](https://www.jdoodle.com/online-java-compiler)  |
+| 5                 | Programa POO     | [JDoodle](https://www.jdoodle.com/online-java-compiler)  |
 
 ### Cuestionario
 
