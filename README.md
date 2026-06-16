@@ -75,7 +75,7 @@ https://github.com/ClosedSource-11848/java-fundamentals-course-closedsource
 * **Descripción:** Mejores prácticas, errores comunes y dónde aprender más.
 * **Enlace:** [Ver la lección](https://youtu.be/8AumKPwjlYE)
 * **Consejos clave:** Depurar errores, explorar la documentación oficial de Oracle Java.
-* **Compartir tu trabajo:** [Enviar creación](https://forms.gle/your-form)
+* **Compartir tu trabajo:** [Enviar creación](https://docs.google.com/forms/d/e/1FAIpQLSfqWLjfoMHrx-nMhvTdG8VwDorqWTc6cjYZJciCmuRnRiHiOQ/viewform)
 
 **¡Guarda y comparte!**
 
@@ -99,7 +99,7 @@ https://github.com/ClosedSource-11848/java-fundamentals-course-closedsource
 
 ### Cuestionario
 
-* [Prueba de conocimientos](https://forms.gle/your-quiz)
+* [Prueba de conocimientos](https://docs.google.com/forms/d/e/1FAIpQLSfqWLjfoMHrx-nMhvTdG8VwDorqWTc6cjYZJciCmuRnRiHiOQ/viewform)
 
 ### Compartir
 
