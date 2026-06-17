@@ -39,10 +39,10 @@ https://github.com/ClosedSource-11848/java-fundamentals-course-closedsource
 
 ---
 
-### Lección 3: Estructuras de Control: Decisiones y Bucles (10 minutos)
+### Lección 3: Estructuras de Control: Decisiones y Bucles (7 minutos)
 
 * **Descripción:** Toma decisiones con `if-else` y repite tareas con bucles.
-* **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+* **Enlace:** [Ver la lección](https://youtu.be/3fQgoGnsE5c)
 * **Conclusiones clave:** `if (age > 12) {}`; `for (int i = 0; i < 5; i++) {}`
 * **Práctica:** [Clic para programar](https://www.jdoodle.com/online-java-compiler) > 👈 ¡No es necesario registrarse! Inicio inmediato.
 
