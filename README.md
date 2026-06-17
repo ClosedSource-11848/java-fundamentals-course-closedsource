@@ -24,9 +24,9 @@ https://github.com/ClosedSource-11848/java-fundamentals-course-closedsource
 ### Lección 1: ¿Qué es Java y la Programación? (5 minutos)
 
 * **Descripción:** Aprende qué es la programación y por qué Java es un excelente lenguaje para empezar.
-* **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link1)
+* **Enlace:** [Ver la lección](https://youtu.be/n1e1SjnyWj4)
 * **Conclusiones clave:** Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras.
-* **Empieza a programar:** [Clic para programar](https://www.jdoodle.com/online-java-compiler)
+* **Empieza a programar:** [Clic para programar](https://www.jdoodle.com/online-java-compiler) 👈 ¡No es necesario registrarse!
 
 ---
 
