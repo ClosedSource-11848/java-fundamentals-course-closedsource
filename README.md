@@ -51,7 +51,7 @@ https://github.com/ClosedSource-11848/java-fundamentals-course-closedsource
 ### Lección 4: Métodos, Entrada/Salida e Introducción a la POO (12 minutos)
 
 * **Descripción:** Crea código reutilizable con métodos, obtén la entrada del usuario e introduce clases y objetos.
-* **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link4)
+* **Enlace:** [Ver la lección](https://youtu.be/efhi5SZgLBw)
 * **Conclusiones clave:**
 
   * `public static void greet() {}`
