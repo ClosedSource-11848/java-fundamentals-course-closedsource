@@ -54,9 +54,9 @@ https://github.com/ClosedSource-11848/java-fundamentals-course-closedsource
 * **Enlace:** [Ver la lección](https://youtu.be/efhi5SZgLBw)
 * **Conclusiones clave:**
 
-  * `public static void greet() {}`
+  * `public static void atacar() {}`
   * Uso de `Scanner`
-  * `class Pet { String name; }`
+  * `class Personaje { String name; int energia }`
 * **Práctica:** [Clic para programar](https://www.jdoodle.com/online-java-compiler) > 👈 ¡No necesitas registrarte!
 
 ---
