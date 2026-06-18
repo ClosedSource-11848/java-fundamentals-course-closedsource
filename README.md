@@ -64,7 +64,7 @@ https://github.com/ClosedSource-11848/java-fundamentals-course-closedsource
 ### Lección 5: Fundamentos de POO y Programas Sencillos (15 minutos)
 
 * **Descripción:** Construye clases con atributos y métodos, y crea un programa POO básico.
-* **Enlace:** [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+* **Enlace:** [Ver la lección](https://youtu.be/XcqmnpPDvNI)
 * **Conclusiones clave:** Encapsulación con getters; construcción de un simulador de mascotas.
 * **Proyecto final:** [Clic para programar](https://www.jdoodle.com/online-java-compiler)
 
