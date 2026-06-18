@@ -61,7 +61,7 @@ https://github.com/ClosedSource-11848/java-fundamentals-course-closedsource
 
 ---
 
-### Lección 5: Fundamentos de POO y Programas Sencillos (15 minutos)
+### Lección 5: Fundamentos de POO y Programas Sencillos (5 minutos)
 
 * **Descripción:** Construye clases con atributos y métodos, y crea un programa POO básico.
 * **Enlace:** [Ver la lección](https://youtu.be/XcqmnpPDvNI)
@@ -70,7 +70,7 @@ https://github.com/ClosedSource-11848/java-fundamentals-course-closedsource
 
 ---
 
-### Lección 6: Consejos y Próximos Pasos (10 minutos)
+### Lección 6: Consejos y Próximos Pasos (8 minutos)
 
 * **Descripción:** Mejores prácticas, errores comunes y dónde aprender más.
 * **Enlace:** [Ver la lección](https://youtu.be/8AumKPwjlYE)
